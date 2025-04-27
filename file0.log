@@ -1,0 +1,10 @@
+/BATCH  
+/COM,ANSYS RELEASE 2024 R2           BUILD 24.2      UP20240513       12:14:22
+/input,menust,tmp,''
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
